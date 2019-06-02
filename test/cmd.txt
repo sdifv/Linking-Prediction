@@ -1,1 +1,0 @@
-python project.py --input test\train_pos --output result.emb --methods deepwalk --dimensions 3 --walk_length 2 
